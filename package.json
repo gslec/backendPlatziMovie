@@ -28,7 +28,11 @@
     "*.js": "eslint --cache --fix"
   },
   "dependencies": {
+    "@hapi/boom": "^9.1.0",
+    "@hapi/joi": "^17.1.1",
+    "cors": "^2.8.5",
     "isnumber": "^1.0.0",
-    "moment": "^2.26.0"
+    "moment": "^2.26.0",
+    "mongodb": "^3.5.7"
   }
 }
